@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Version Control for Our Ideas"
-date:   2017-06-23 20:55:27 +0000
+date:   2017-06-23 16:55:28 -0400
 ---
 
 
-I'm not much of a writer so I'll get straight to the point. I like the concept of version control and git. It let's multiple people collaborate and work on the same project with minimal disruptions in workflow and really organizes everyone's contributions in a logical manner. Using and learing about git was definitely the first time I've been exposed to this kind of organization, since a lot of what was taught in school was very linear.
+I'm not much of a writer so I'll get straight to the point. I like the concept of version control and git. It lets multiple people collaborate and work on the same project with minimal disruptions in workflow and really organizes everyone's contributions in a logical manner. Using and learing about git was definitely the first time I've been exposed to this kind of organization, since a lot of what was taught in school was very linear.
 
 Because of how unique version control feels to me, I was just thinking about how it can be used for organizing my ideas. When I have ideas, it's a real mess sometimes so it easy for me to lose track of them. I have those eureka moments once in a while but if don't write down or record it somewhere it's usually lost within a couple days . If I could just save "repos" of my ideas, be able to commit changes, merge branches, etc, it would make idea generation and keeping track of my good ideas a lot more robust.
 
