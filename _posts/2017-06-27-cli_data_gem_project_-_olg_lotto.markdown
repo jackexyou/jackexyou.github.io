@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "CLI Data Gem Project - OLG Lotto"
-date:   2017-06-27 20:43:38 +0000
+date:   2017-06-27 16:43:39 -0400
 ---
 
 
-I have worked at a convenience store forover 10 years and one of the biggest sells are lottery tickets. Every morning I'd put out sheets with the winning numbers and prize categories on them, so I thought to myself "Why not scrape their website for numbers?" With that in mind I headed to http://www.olg.ca/index.jsp to see what I could do. Check out 
-https://github.com/jackexyou/lotto_cli_gem for my full code.
+I have worked at a convenience store forover 10 years and one of the biggest sells are lottery tickets. Every morning I'd put out sheets with the winning numbers and prize categories on them, so I thought to myself "Why not scrape their website for numbers?" With that in mind I headed to [OLG's website](http://www.olg.ca/index.jsp) to see what I could do. Check out 
+[my github](http://www.olg.ca/index.jsp) for my full code.
 
 ---
 
